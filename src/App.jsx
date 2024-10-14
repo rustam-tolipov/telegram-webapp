@@ -1,7 +1,7 @@
 /* eslint-disable no-undef */
 import { useState, useEffect } from "react";
 import Button from "./components/button/Button.jsx";
-import Card from "./components/card/card.jsx";
+import Card from "./components/card/Card.jsx";
 import Cart from "./components/cart/Cart.jsx";
 import { getData } from "./db/db.js";
 
